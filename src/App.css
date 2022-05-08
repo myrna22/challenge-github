@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.top-header{
+  color: rgb(82, 42, 201);  
+  text-align: center;
+  font-weight: bold;
+  font-size: 35px;
+  margin-top: 30px;
+  margin-bottom: 35px;
+}
+
+nav{
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.fa{
+  font-size: 32px;
+  color:white;
+}
+
+.navbar-brand{
+  font-size: 25px;
+
+}
+
+.notice{
+  color: blue;
+  font-size: 15px;
+  text-align: right;
+}
+
+.info-page {
+  background-color: beige;
+  border-radius: 10px;
+} 
+.content{
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+}
+.info-box{
+  display: flex;
+  border:none;
+}
+
+
+
